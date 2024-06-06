@@ -84,7 +84,7 @@
 
 body{
     
-    background-image: url("/portfolio/images-src/bg.png");
+    background-image: url("bg.png");
     
 }
 
@@ -501,5 +501,3 @@ margin-right: 30px;
     background: #888;
   }
   
-
-
